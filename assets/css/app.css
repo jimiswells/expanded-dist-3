@@ -502,7 +502,7 @@ h1:hover {
   background-color: #f5f5f5; }
 
 .video {
-  padding: 10%;
+  padding:5%;
   position: relative; }
 
 video {
@@ -523,15 +523,7 @@ video {
 .stopfade {
   opacity: .5; }
 
-#polina {
-  background: #F9E9DE;
-  color: #000;
-  padding: 2rem;
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 33%;
-  margin: 2rem; }
+
 
 .video button {
   position: relative;
