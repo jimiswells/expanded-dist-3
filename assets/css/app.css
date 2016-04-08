@@ -571,7 +571,8 @@ footer {
   background-color: rgba(238, 238, 238, 0) !important; }
 
 .top-bar ul a {
-  color: #fff; }
+  color: #fff;
+font-size:1.7em;}
 
 .top-bar-right .menu {
   padding-top: 1rem; }
