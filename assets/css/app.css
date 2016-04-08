@@ -389,7 +389,7 @@ article {
   position: relative; }
 
 .owl-carousel .owl-item img {
-    height:900px;
+    
   -webkit-filter: grayscale(1);
   filter: grayscale(1); }
 
