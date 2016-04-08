@@ -597,7 +597,7 @@ h1 {
     text-align: center; }
   .menu > li > a {
     padding: 5px 10px !important;
-    font-size: 1.7em; }
+    font-size:.8em; }
   .intro-text {
     display: none; }
   .intro {
@@ -620,7 +620,11 @@ h1 {
   .top-bar-right .menu {
     padding-top: 0.5rem; }
   .intro-text {
-    display: none; } }
+    display: none; }
+.top-bar ul a {
+    font-size:1.2em;
+}
+}
 
 /*medium-landscape**/
 /* Landscape */
