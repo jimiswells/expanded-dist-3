@@ -388,6 +388,11 @@ article {
 .owl-wrapper {
   position: relative; }
 
+.owl-item {
+    max-height: 900px;
+}
+    
+
 .owl-carousel .owl-item img {
     
   -webkit-filter: grayscale(1);
