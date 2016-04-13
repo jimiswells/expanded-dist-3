@@ -12,7 +12,9 @@
 }
 
 .pace .pace-progress {
-  background-image: url(/assets/img/expanded-intro.jpg);
+  background-image: url(assets/img/expanded-intro.jpg);
+  -webkit-background-size:cover;
+  background-size:cover ;
   background-color: rgba(0, 0, 0, 0.19999999999999996);
   position: fixed;
   z-index: -1;
