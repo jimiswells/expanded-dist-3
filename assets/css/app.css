@@ -18,15 +18,7 @@ html {
 body {
   margin: 0; }
 
-/*hide everything but pace until loaded*/
-body > :not(.pace),body:before,body:after {
-  -webkit-transition:opacity .4s ease-in-out;
-  transition:opacity .4s ease-in-out
-}
 
-body:not(.pace-done) > :not(.pace),body:not(.pace-done):before,body:not(.pace-done):after {
-  opacity:0
-}
 
 /* HTML5 display definitions
    ========================================================================== */
