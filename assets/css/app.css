@@ -568,6 +568,14 @@ video {
   .gallery .columns {
     padding: 0; }
 
+.artist-specs {
+    background-color: #f5f5f5;
+}
+
+.artist-specs h1 {
+    color: #fff;
+}
+
 .artist-brief {
   background-color: rgba(21, 131, 204, 0.11); }
 
